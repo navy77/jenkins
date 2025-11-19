@@ -4,7 +4,7 @@ docker-compose up -d
 
 ## install plugins
 Docker Pipeline \
-Dicker API \
+Docker API \
 Pipeline Stage view 
 
 ## git test
